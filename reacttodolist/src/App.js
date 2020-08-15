@@ -13,7 +13,7 @@ class App extends Component {
       {
         id: 2,
         title: 'Have dinner',
-        completed: false
+        completed: true
       },
       {
         id: 1,
